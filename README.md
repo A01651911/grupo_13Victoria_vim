@@ -5,7 +5,7 @@ Nombre del sitio: VIM
 Significado del nombre: Valuable Innovator Meaningful
 
 VIM comercializa productos de última tecnología y sustentables. VIM cuenta con una gama de productos con VALOR que aportan al mercado 
-beneficios positivos a su vida diaria, INNOVADORES ya que cuenta con tecnologías emergentes, y tienen un SIGNIFICADO para el consumidor.
+beneficios positivos a la vida cotidiana, INNOVADORES ya que cuenta con tecnologías emergentes, y tienen un SIGNIFICADO para el consumidor.
 
 VIM seccionó sus productos en cuatro ramas:
 
@@ -34,4 +34,9 @@ Referencias de e–commerce en los que se basa el diseño del modelo:
 – https://aeromexico.com/es-mx -> El diseño del sitio web es óptimo, permitiendo de un lado mantener fija la información para solicitar un pedido
 mientras que en la otra mitad de la pantalla se ofrecen sugerencias y diversos artículos.
 
-– 
+– https://www.maison-kayser.com.mx/ -> El dinamismo del sitio web permite una navergación fácil, así como estéticamente luce agradable.
+
+– https://www.alibaba.com/?spm=a2700.8293689.0.0.5dd067af0jwUBq -> Ofrece todo tipo de productos tecnológicos y de uso cotidiano. Posee una amplia
+variedad en todas las secciones de artículos.
+
+
