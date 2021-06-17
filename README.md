@@ -23,4 +23,15 @@ sino vender con VALOR productos INNOVADORES que tengan SIGNIFICADO en la vida de
 El creador de VIM V.D.D. es un Ingeniero Físico Industrial, por lo que su principal objetivo es utilizar la tecnología a favor del consumidor
 respetando la forma de producción y venta de los artículos. A su vez, ofrece únicamente productos competentes en el mercado con la tecnología actual
 en búsqueda del acceso tecnológico para cualquier tipo de consumidor. NO se fomenta el consumismo excesivo por lo que todos los productos seleccionados
-contarán (preferentemente) con la mayor vida útil posible, haciendo a VIM una empresa con valores y altamente responsable.
+contarán (preferentemente) con la mayor vida útil posible, haciendo a VIM una marca con valores y altamente responsable.
+
+Referencias de e–commerce en los que se basa el diseño del modelo:
+
+– https://www.apple.com/mx/ -> Productos de alta tecnología y durables que se pretenden ofertar en VIM.
+
+– https://www.tesla.com/es_mx -> Vehículos con valor y pioneros en su especie que se ofrecerán en la sección de VIM R.
+
+– https://aeromexico.com/es-mx -> El diseño del sitio web es óptimo, permitiendo de un lado mantener fija la información para solicitar un pedido
+mientras que en la otra mitad de la pantalla se ofrecen sugerencias y diversos artículos.
+
+– 
