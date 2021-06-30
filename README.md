@@ -39,4 +39,4 @@ mientras que en la otra mitad de la pantalla se ofrecen sugerencias y diversos a
 – https://www.alibaba.com/?spm=a2700.8293689.0.0.5dd067af0jwUBq -> Ofrece todo tipo de productos tecnológicos y de uso cotidiano. Posee una amplia
 variedad en todas las secciones de artículos.
 
-
+Tablero de trabajo: https://trello.com/b/2jvc6uSq/proyecto-integrador
